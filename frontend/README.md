@@ -6,7 +6,7 @@ Este módulo contiene la interfaz de usuario del sistema de gestión de docentes
 
 ## 🚀 Comandos de Ejecución
 
-Dentro de la carpeta `frontend`, puedes utilizar los siguientes comandos de NPM:
+Dentro de la carpeta `frontend`, se pueden utilizar los siguientes comandos de NPM:
 
 ### 1. Instalación de dependencias
 
@@ -39,7 +39,7 @@ npm run build
 Para una experiencia de desarrollo profesional y evitar errores de sintaxis, se recomienda:
 
 * **IDE:** Visual Studio Code
-* **Extensión Imprescindible:** `Vue - Official` (Volar)
+* **Extensión Imprescindible:** `Vue - Official` 
 * **Depuración:** `Vue.js devtools` (disponible para Chrome y Firefox) para inspeccionar el estado de los componentes.
 
 ---
