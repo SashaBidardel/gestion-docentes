@@ -12,8 +12,9 @@ Dentro de la carpeta `frontend`, puedes utilizar los siguientes comandos de NPM:
 
 Prepara el entorno instalando todas las librerías necesarias (incluyendo Vuetify, Axios y Vite):
 
-
+```
 npm install
+```
 ### 2. Ejecución en Desarrollo (Hot-Reload)
 Inicia el servidor local de Vite con refresco automático:
 
