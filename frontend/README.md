@@ -18,13 +18,15 @@ npm install
 ### 2. Ejecución en Desarrollo (Hot-Reload)
 Inicia el servidor local de Vite con refresco automático:
 
-
+```
 npm run dev
+```
 ### 3. Compilación para Producción (Build)
 Genera una versión optimizada y minificada en la carpeta `/dist`:
 
-
+```
 npm run build
+```
 ## 📂 Funcionalidades Principales
 
 * **Autenticación Segura (JWT):** Sistema de login que gestiona tokens de sesión de forma persistente y protege las rutas privadas.
