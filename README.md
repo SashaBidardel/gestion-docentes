@@ -20,7 +20,7 @@ El proyecto se organiza en dos módulos principales:
 ### Backend (Servidor)
 * **Lenguaje:** Java 21 (LTS).
 * **Framework:** Spring Boot 3.x.
-* **Seguridad:** Spring Security + JSON Web Tokens (JWT).
+* **Seguridad:** Spring Security.
 * **Base de Datos:** MySQL 8.0.
 * **Mapeo de Datos:** ModelMapper (DTOs).
 
