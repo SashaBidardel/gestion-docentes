@@ -10,7 +10,7 @@ El proyecto utiliza una arquitectura de **microservicios** desacoplada, con un b
 
 El proyecto se organiza en dos módulos principales:
 
-* **[/backend](./backend):** API REST desarrollada con **Java 21** y **Spring Boot 3**. Gestiona la lógica de negocio, seguridad mediante JWT y persistencia en base de datos MySQL.
+* **[/backend](./backend):** API REST desarrollada con **Java 21** y **Spring Boot 3**. Gestiona la lógica de negocio, seguridad y persistencia en base de datos MySQL.
 * **[/frontend](./frontend):** Aplicación SPA (Single Page Application) desarrollada con **Vue.js 3** y **Vuetify 3**. Interfaz profesional basada en Material Design 3.
 
 ---
