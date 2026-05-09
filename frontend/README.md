@@ -29,7 +29,7 @@ npm run build
 ```
 ## 📂 Funcionalidades Principales
 
-* **Autenticación Segura (JWT):** Sistema de login que gestiona tokens de sesión de forma persistente y protege las rutas privadas.
+* **Autenticación Segura :** Sistema de login que gestiona tokens de sesión de forma persistente y protege las rutas privadas.
 * **Gestión Integral de Docentes (CRUD):** Interfaz completa para el alta, baja, modificación y consulta de profesores con validaciones en tiempo real.
 * **Carga Masiva mediante CSV:** Herramienta específica para el administrador que permite importar horarios y datos de personal de forma masiva.
 * **Gestión de Ausencias y Guardias:** Panel interactivo para la solicitud de días propios por parte de los docentes y la gestión de sustituciones por el administrador.
